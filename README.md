@@ -15,7 +15,7 @@ Windows için hafif görev yöneticisi. Tüm çalışan süreçleri listeler, he
 - **Yenile** — anlık process listesi güncelleme
 - **Görev Yöneticisi** — Windows'un kendi görev yöneticisine hızlı erişim
 - **Tek exe** — kurulum gerektirmez, `ProcessGuard.exe` dosyasını çalıştırın
-
+- İndir : https://files.fm/f/sf7spysrvggq3zmb
 ## Kullanım
 
 1. `ProcessGuard.exe` dosyasını indirin ve çift tıklayın.
